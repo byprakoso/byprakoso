@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bayu Prakoso</h1>
+<h3 align="center">A UX Engineer and UI Designer</h3>
 
-<!--
-**byprakoso/byprakoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/naufaldi?tab=followers">
+    <img src="https://img.shields.io/github/followers/naufaldi?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/f2aldi">
+    <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... Dataon
+- 🌱 I’m currently learning ... Svelte JS
+- 👯 I’m looking to collaborate on ... Svelte JS
+- 🤔 I’m looking for help with ... Front End Development
+- 💬 Ask me about ... Figma, CSS, Javascript, and UX Stuffs
+- 📫 How to reach me: ... [byprakosoo](https://www.instagram.com/byprakosoo/) or email me at **bayuprakoso.adi@gmail.com**
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I love One Piece
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=byprakoso)](https://github.com/byprakoso/github-readme-stats)
 -->
