@@ -14,8 +14,11 @@
 - 💬 Ask me about ... Figma, CSS, Javascript, and UX Stuffs
 - 📫 How to reach me: ... [byprakosoo](https://www.instagram.com/byprakosoo/) or email me at **bayuprakoso.adi@gmail.com**
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love One Piece
+- ⚡ Fun fact: ... I really love One Piece
+
 
 <div align="center">
+<---
 [![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=byprakoso)](https://github.com/byprakoso/github-readme-stats)
-</div>
+--->
+<div>
