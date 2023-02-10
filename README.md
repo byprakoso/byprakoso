@@ -2,9 +2,6 @@
 <h3 align="center">A UX Engineer and UI Designer</h3>
 
 <p align="center">
-  <a href="https://github.com/naufaldi?tab=followers">
-    <img src="https://img.shields.io/github/followers/byprakoso?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="http://twitter.com/f2aldi">
     <img src="https://img.shields.io/twitter/follow/byprakosoo?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
