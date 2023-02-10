@@ -16,5 +16,6 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love One Piece
 
+<div align="center">
 [![Bayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=byprakoso)](https://github.com/byprakoso/github-readme-stats)
--->
+</div>
