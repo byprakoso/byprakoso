@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayu Prakoso</h1>
-<h3 align="center">A UX Engineer and UI Designer</h3>
+<h3 align="center">A UX Engineer and Product Designer</h3>
 
 <p align="center">
   <a href="http://twitter.com/f2aldi">
